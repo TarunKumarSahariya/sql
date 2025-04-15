@@ -105,7 +105,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 
 - Cloud platforms like **Azure** and **AWS**, as well as modern data tools like **MongoDB**, **Databricks**, and **Snowflake**, are highly valued.
 
-![top_paying_roles_skills](assets\top_paying_roles_skills.png)
+![top_paying_roles_skills](assets/top_paying_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
